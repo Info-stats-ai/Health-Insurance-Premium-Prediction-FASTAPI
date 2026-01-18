@@ -1,0 +1,9 @@
+fastapi 
+uvicorn
+pydantic
+pyyaml
+pandas
+scikit-learn==1.6.1
+numpy
+streamlit
+requests
